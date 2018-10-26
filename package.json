@@ -1,0 +1,24 @@
+{
+  "name": "wisdom",
+  "version": "1.0.0",
+  "description": "3 points of wisdom from 5 of my favorite books",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MattSS19/Wisdom.git"
+  },
+  "author": "Matthew Sylvester",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattSS19/Wisdom/issues"
+  },
+  "homepage": "https://github.com/MattSS19/Wisdom#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
