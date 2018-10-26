@@ -10,3 +10,7 @@ app.get("/", function(req, res){
 app.get("/book1", function(req, res){
     res.render("book1");
 });
+
+app.listen(process.env.PORT, process.env.IP, function(){
+    console.log("Wisdom Up!!")
+});
