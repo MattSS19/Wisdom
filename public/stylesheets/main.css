@@ -3,6 +3,11 @@
     padding: 10px 15px 10px 10px;
 }
 
+#jumbo-header{
+    background: transparent;
+    padding-bottom: 0px;
+}
+
 .top-hr {
    border-color: black;
    width: 97%;
