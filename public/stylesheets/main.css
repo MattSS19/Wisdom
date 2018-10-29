@@ -1,0 +1,29 @@
+.p-background {
+    background-color: #f7f8fc;
+    padding: 10px 15px 10px 10px;
+}
+
+.top-hr {
+   border-color: black;
+   width: 97%;
+}
+
+.name {
+    text-align: center;
+}
+
+.blurb {
+    text-align: center;
+}
+#top-row {
+    padding: 30px 15px 0px 15px;
+}
+
+.thumb-img {
+    padding: 10px 10px;
+    border: solid 3px black;
+}
+
+.top-thumb {
+    padding: 17px 0px 13px 0px;
+}
