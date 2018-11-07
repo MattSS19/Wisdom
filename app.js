@@ -8,13 +8,13 @@ app.get("/", function(req, res){
     res.render("home");
 });
 
-// app.get("/book1", function(req, res){
-//     res.render("book1");
-// });
+app.get("/Peak", function(req, res){
+    res.render("Peak");
+});
 
-// app.get("/book2", function(req, res){
-//     res.render("book2");
-// });
+app.get("/Mastery", function(req, res){
+    res.render("book2");
+});
 
 // app.get("/book3", function(req, res){
 //     res.render("book3");
